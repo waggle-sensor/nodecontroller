@@ -4,7 +4,7 @@ The *node controller* is a single-board Linux computer providing encrypted TCP/I
 
 ## Releases
 
-We are actively developing the ARM64 based node controller linked below. The legacy ARM32 based node controlled is linked for reference only and will no longer be developed.
+We are actively developing the ARM64 based node controller linked below. The legacy ARM32 based node controlled is kept for reference only and is no longer supported.
 
 * [ARM64 Based Node Controller](https://github.com/waggle-sensor/nodecontroller-arm64) (Current)
 * [ARM32 Based Node Controller](https://github.com/waggle-sensor/nodecontroller-arm32) (Legacy)
